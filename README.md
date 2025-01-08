@@ -3,11 +3,11 @@
 code base : https://github.com/N4si/DevSecOps-Project
 
 Ports:
-Jenkins - 8080
-Sonarqube - 9000
-Prometheus - 9090
-Grafana - 3000
-Node Exporter - 9100
+--Jenkins - 8080
+--Sonarqube - 9000
+--Prometheus - 9090
+--Grafana - 3000
+--Node Exporter - 9100
 
 Project Architecture:
 
